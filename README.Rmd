@@ -71,3 +71,9 @@ to_units(bananamac)
 #### References
 
 - The banana for scale meme started in 2005! <https://knowyourmeme.com/memes/banana-for-scale>
+
+
+
+Please note that the 'banana' project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing to this project, you agree to abide by its terms.

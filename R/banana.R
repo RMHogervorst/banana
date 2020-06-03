@@ -33,6 +33,7 @@ units_to_banana <- function(unitvector){
   banana(set_unit_to_cm(unitvector))
 }
 
+#' @export
 to_units <- function(x) turn_into_units(x)
 
 #' assumes in cm unitless

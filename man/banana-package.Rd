@@ -8,6 +8,14 @@
 \description{
 Translate everything into bananas.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/RMHogervorst/banana}
+  \item Report bugs at \url{https://github.com/RMHogervorst/banana/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Roel M. Hogervorst \email{hogervorst.rm@gmail.com} (\href{https://orcid.org/0000-0001-7509-0328}{ORCID})
 
