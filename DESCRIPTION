@@ -1,0 +1,21 @@
+Package: banana
+Title: Translate everything into Banana size.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Roel M.",
+           family = "Hogervorst",
+           role = c("aut", "cre"),
+           email = "hogervorst.rm@gmail.com",
+           comment = c(ORCID = "0000-0001-7509-0328"))
+Description: Translate everything into bananas.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: en_US
+LazyData: true
+Imports: 
+    units,
+    vctrs,
+    methods
+Suggests: 
+    testthat (>= 2.1.0)
+RoxygenNote: 7.1.0
